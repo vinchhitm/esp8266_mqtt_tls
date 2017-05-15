@@ -29,9 +29,9 @@
 
 // Update these with values suitable for your network.
 
-const char* ssid = "darshini";
-const char* password = "SWC@cs703";
-const char* mqtt_server = "192.168.0.100";
+const char* ssid = "your_ssid";
+const char* password = "your_password";
+const char* mqtt_server = "your_mqtt_server";
 
 // openssl x509 -fingerprint -in  mqttserver.crt 
 const char* fingerprint = "70 B2 BF 0D 4E 2A 54 FC DD C3 75 03 CD 42 20 71 9C 4A 97 37";
